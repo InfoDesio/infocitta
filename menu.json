@@ -1,14 +1,14 @@
 [
   {
-    "ID": "comunedesio",
-    "TITLE": "Comune di Desio"
+    "Nome": "Comune di Desio",
+    "Link": "comunedesio"
   },
   {
-    "ID": "medici",
-    "TITLE": "Medici di Base"
+    "Nome": "Medici di Base",
+    "Link": "medici"
   },
   {
-    "ID": "pediatri",
-    "TITLE": "Pediatri"
+    "Nome": "Pediatri",
+    "Link": "pediatri"
   }
 ]

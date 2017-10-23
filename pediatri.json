@@ -167,13 +167,13 @@
             "WeekDay": 1,
             "Schedules": [
               {
-                "StartTime": "14:00",
-                "EndTime": "16:00",
+                "StartTime": "09:30",
+                "EndTime": "12:30",
                 "Note": ""
               },
               {
-                "StartTime": "09:30",
-                "EndTime": "12:30",
+                "StartTime": "14:00",
+                "EndTime": "16:00",
                 "Note": ""
               }
             ]

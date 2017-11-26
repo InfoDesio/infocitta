@@ -30,7 +30,7 @@
     {
       "Title": "Per appuntamento",
       "Value": "339 2830637",
-      "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+      "Note": "Da lunedÃ¬ a venerdÃ¬ dalle 8.00 alle 10.00",
       "Type": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "Title": "per visite a domicilio:",
       "Value": "339 2830637",
-      "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+      "Note": "Da lunedÃ¬ a venerdÃ¬ dalle 8.00 alle 10.00",
       "Type": 0
     }
   ],
@@ -56,7 +56,7 @@
           "Schedules": [
             {
               "StartTime": "09:30",
-              "EndTime": "10:30",
+              "EndTime": "12:30",
               "Note": ""
             }
           ]
@@ -66,7 +66,7 @@
           "Schedules": [
             {
               "StartTime": "15:00",
-              "EndTime": "16:30",
+              "EndTime": "18:30",
               "Note": ""
             }
           ]
@@ -75,8 +75,8 @@
           "WeekDay": 3,
           "Schedules": [
             {
-              "StartTime": "15:00",
-              "EndTime": "16:30",
+              "StartTime": "16:00",
+              "EndTime": "19:00",
               "Note": ""
             }
           ]
@@ -85,8 +85,8 @@
           "WeekDay": 4,
           "Schedules": [
             {
-              "StartTime": "15:00",
-              "EndTime": "16:30",
+              "StartTime": "09:30",
+              "EndTime": "12:30",
               "Note": ""
             }
           ]
@@ -96,7 +96,7 @@
           "Schedules": [
             {
               "StartTime": "09:30",
-              "EndTime": "11:00",
+              "EndTime": "12:30",
               "Note": ""
             }
           ]

@@ -1,7 +1,7 @@
 {
   "Version": 1,
   "ID": "e1e5eb1b-cbd8-4c92-8e1d-423dacb983b2",
-  "Name": "Dott. ssa CRIPPA LAURA",
+  "Name": "Dott. ssa Crippa Laura",
   "Alias": "dott_ssa_crippa_laura",
   "Note": "",
   "Image": "",
@@ -30,7 +30,7 @@
     {
       "Title": "per visite a domicilio:",
       "Value": "347 4857295",
-      "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+      "Note": "Da lunedÃ¬ a venerdÃ¬ dalle 8.00 alle 10.00",
       "Type": 0
     },
     {
@@ -42,7 +42,7 @@
     {
       "Title": "Per appuntamento",
       "Value": "347 4857295",
-      "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+      "Note": "Da lunedÃ¬ a venerdÃ¬ dalle 8.00 alle 10.00",
       "Type": 0
     }
   ],

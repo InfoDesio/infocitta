@@ -1,6 +1,7 @@
 {
   "Version": 1,
   "ID": "4a99020e-1720-4959-a862-d6e655600e15",
+  "LastUpdate":"28/11/2017",
   "Name": "Dott.ssa Natale Irene",
   "Alias": "dottssa_natale_irene",
   "Note": "",
@@ -34,9 +35,9 @@
       "Type": 0
     },
     {
-      "Title": "per consigli, informazioni e richieste:",
+      "Title": "Per consigli",
       "Value": "0362/355339",
-      "Note": "da lun a ven durante l'orario di ambulatorio ",
+      "Note": "Dal lunedi al venerdi dalle ore 08.00 - 10.00 e poi segreteria telefonica fino alle ore 20.00",
       "Type": 0
     }
   ],
@@ -49,8 +50,8 @@
           "WeekDay": 1,
           "Schedules": [
             {
-              "StartTime": "14:15",
-              "EndTime": "16:45",
+              "StartTime": "10:30",
+              "EndTime": "13:00",
               "Note": ""
             }
           ]

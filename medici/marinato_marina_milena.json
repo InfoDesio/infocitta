@@ -29,19 +29,19 @@
   "Contacts": [
     {
       "Title": "per visite a domicilio:",
-      "Value": "0362/626123",
+      "Value": "0362 626123",
       "Note": "da lun a ven dalle 08.00 alle 10.00 ",
       "Type": 0
     },
     {
       "Title": "per consigli:",
-      "Value": "0362/626123",
+      "Value": "0362 626123",
       "Note": "da lun a ven negli orari di ambulatorio",
       "Type": 0
     },
     {
       "Title": "Per appuntamento",
-      "Value": "0362/626123",
+      "Value": "0362 626123",
       "Note": "da lun a ven dalle 08.00 alle 10.00",
       "Type": 0
     }

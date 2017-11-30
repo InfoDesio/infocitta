@@ -29,19 +29,19 @@
   "Contacts": [
     {
       "Title": "per visite a domicilio:",
-      "Value": "0362/301030",
+      "Value": "0362 301030",
       "Note": "da lun a ven dalle 08.00 alle 10.00 ",
       "Type": 0
     },
     {
       "Title": "Per appuntamento",
-      "Value": "333/8841125",
+      "Value": "333 8841125",
       "Note": "da lun a ven dalle 08.00 alle 09.00 e dalle 14.30 alle 16.00 ",
       "Type": 0
     },
     {
       "Title": "per consigli:",
-      "Value": "0362/301030",
+      "Value": "0362 301030",
       "Note": "lun e merc 18.00-20.00 mar 11.30-13.30 gio 17.00-19.00  ven 12.30-14.30 ",
       "Type": 0
     }

@@ -10,5 +10,13 @@
   {
     "Nome": "Pediatri",
     "Link": "pediatri"
+  },
+  {
+    "Nome": "Scuola dell'infanzia",
+    "Link": "scuola_infanzia"
+  },
+  {
+    "Nome": "Veterinari",
+    "Link": "veterinari"
   }
 ]

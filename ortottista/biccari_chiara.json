@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "a40f6426-7f1c-4fd0-a89d-54972210260b",
+  "Name": "Dott.ssa Biccari Chiara",
+  "Alias": "dott_ssa_biccari_chiara",
+  "Note": "",
+  "Image": "",
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Garibaldi, 86, 20832 Desio MB",
+      "Latitude": "45.614437",
+      "Longitude": "9.205885",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per prenotazioni",
+      "Value": "0362 1636871",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario visite",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

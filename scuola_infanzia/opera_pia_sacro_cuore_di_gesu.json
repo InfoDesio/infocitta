@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "69ceb0fa-51ee-4f46-8867-4b172a906239",
+  "Name": "Opera Pia Sacro Cuore Di Gesu'",
+  "Alias": "opera_pia_sacro_cuore_di_gesu",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DON MINZONI 1 DESIO",
+      "Latitude": "45.617205",
+      "Longitude": "9.195874",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362622518",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "materna.sacrocuore@gmail.com",
+      "Note": "",
+      "Type": 1
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

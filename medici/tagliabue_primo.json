@@ -55,8 +55,8 @@
           "WeekDay": 1,
           "Schedules": [
             {
-              "StartTime": "09:00",
-              "EndTime": "13:00",
+              "StartTime": "12:00",
+              "EndTime": "16:00",
               "Note": ""
             }
           ]

@@ -20,6 +20,10 @@
     "Link": "scuola_infanzia"
   },
   {
+    "Nome": "Servizi sanitari",
+    "Link": "sanitario"
+  },  
+  {
     "Nome": "Veterinari",
     "Link": "veterinari"
   }

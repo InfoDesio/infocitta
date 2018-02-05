@@ -17,7 +17,14 @@
       "Alias": "sanitaria"
     }
   ],
-  "Contacts": [],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "840.500.092",
+      "Note": "(con addebito fisso alla risposta)",
+      "Type": 0
+    }
+  ],
   "Adresses": [
     {
       "Title": "Bellusco",
